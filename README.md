@@ -23,6 +23,19 @@ The following **required** functionality is completed:
 
   - [x] Tapping on a user image should bring up that user's profile page
 
+The following **optional** functionality is completed:
+
+- Profile Page
+  - [ ] Optional: Implement the paging view for the user description. (med)
+  - [ ] Optional: As the paging view moves, increase the opacity of the background screen. See the actual Twitter app for this effect (med)
+  - [ ] Optional: Pulling down the profile page should blur and resize the header image. (high)
+
+- Account switching
+  - [ ] Optional: Long press on tab bar to bring up Account view with animation (low)
+  - [ ] Optional: Tap account to switch to (low)
+  - [ ] Optional: Include a plus button to Add an Account (med)
+  - [ ] Optional: Swipe to delete an account (med)
+
 
 ## Video Walkthrough
 
